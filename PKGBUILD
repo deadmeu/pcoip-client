@@ -1,6 +1,6 @@
 # Maintainer: Patrik Pira
 pkgname=pcoip-client
-pkgver=19.11.0
+pkgver=20.01.1
 pkgrel=1
 _boostver=1.65.1
 _protobufver=10
